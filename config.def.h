@@ -8,6 +8,7 @@
 static char *font = "IBMPlexMono-Regular:pixelsize=14:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
+	"NotoEmoji-VariableFont_wght:pixelsize=14:antialias=true:autohint=true",
 	"SourceCodeProforPowerline:pixelsize=14:antialias=true:autohint=true",
 	"Hack-Regular:pixelsize=14:antialias=true:autohint=true",
 };
