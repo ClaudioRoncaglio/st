@@ -5,6 +5,8 @@ st is a simple terminal emulator for X which sucks less.
 Patch installate
 ----------------
 - gruvbox
+- alpha (per la trasparenza)
+- scrollback con ring buffer
 
 
 Requirements
