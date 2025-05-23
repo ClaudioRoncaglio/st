@@ -7,6 +7,8 @@ Patch installate
 - gruvbox
 - alpha (per la trasparenza)
 - scrollback con ring buffer
+- scrollback con mouse wheel
+- blinking cursor
 
 
 Requirements
