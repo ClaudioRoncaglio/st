@@ -6,6 +6,12 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font = "IBMPlexMono-Regular:pixelsize=14:antialias=true:autohint=true";
+/* Spare fonts */
+static char *font2[] = {
+	"SourceCodeProforPowerline:pixelsize=14:antialias=true:autohint=true",
+	"Hack-Regular:pixelsize=14:antialias=true:autohint=true",
+};
+
 static int borderpx = 2;
 
 /*
