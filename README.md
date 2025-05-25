@@ -2,13 +2,13 @@
 # st - simple terminal
 st is a simple terminal emulator for X which sucks less.
 
-Questa è la mia configurazione personalizzata del terminale
+Questa è la mia configurazione personalizzata del terminale **st** basato sulla versione **0.9.2**
 
 ## Patch installate
 - **gruvbox**
-- **alpha**(per la trasparenza)
-- **scrollback** con ring buffer
-- **scrollback** con mouse wheel
+- **alpha** - per la trasparenza
+- **scrollback** - con ring buffer
+- **scrollback** - con mouse wheel
 - **blinking cursor**
 - **font2** - per usare altri font per caratteri non presenti in quello principale
 - **anysize** - per un resizing corretto quando la finestra non è un esatto multiplo dei caratteri
