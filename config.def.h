@@ -8,9 +8,10 @@
 static char *font = "IBMPlexMono-Regular:pixelsize=16:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
-	"NotoEmoji-VariableFont_wght:pixelsize=14:antialias=true:autohint=true",
-	"SourceCodeProforPowerline:pixelsize=14:antialias=true:autohint=true",
-	"Hack-Regular:pixelsize=14:antialias=true:autohint=true",
+	"FontAwesome6Free-Regular:pixelsize=16:antialias=true:autohint=true",
+	"NotoEmoji-VariableFont_wght:pixelsize=16:antialias=true:autohint=true",
+	"SourceCodeProforPowerline:pixelsize=16:antialias=true:autohint=true",
+	"Hack-Regular:pixelsize=16:antialias=true:autohint=true",
 };
 
 static int borderpx = 2;
