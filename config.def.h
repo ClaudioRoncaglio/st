@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "IBMPlexMono-Regular:pixelsize=14:antialias=true:autohint=true";
+static char *font = "IBMPlexMono-Regular:pixelsize=16:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
 	"NotoEmoji-VariableFont_wght:pixelsize=14:antialias=true:autohint=true",

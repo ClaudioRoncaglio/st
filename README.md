@@ -12,6 +12,7 @@ Questa è la mia configurazione personalizzata del terminale **st** basato sulla
 - **blinking cursor**
 - **font2** - per usare altri font per caratteri non presenti in quello principale
 - **anysize** - per un resizing corretto quando la finestra non è un esatto multiplo dei caratteri
+- **glyph whide support** - per non troncare glifi più larghi di uno spazio
 
 
 ## Requirements
